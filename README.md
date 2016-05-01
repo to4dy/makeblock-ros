@@ -2,11 +2,18 @@
 Makeblock Orion ros package.
 
 Features:
+--
 - Get ultrasonic sensor data.
 
 Future:
+--
 - Move robot
 
-REQUIRED:
+Required:
+--
 - pip install megapi
 - pip install pySerial
+
+Installation:
+--
+git clone ~/catkin_ws/src
