@@ -1,5 +1,5 @@
 # makeblock-ros
-Makeblock Orion ros package.
+Makeblock Orion ros bridge.
 
 Features:
 --
@@ -16,4 +16,5 @@ Required:
 
 Installation:
 --
-git clone ~/catkin_ws/src
+cd ~/catkin_ws/src
+git clone ..
