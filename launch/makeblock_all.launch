@@ -1,4 +1,5 @@
 <launch>
-  <node pkg="makeblock_ros" type="makeblock_ros_ultrasensor.py"
-        name="makeblock_ros_ultrasensor" output="screen"/>
+  <node pkg="makeblock_ros" type="makeblock_ros_one.py"
+        name="makeblock_ros_one" output="screen"/>
+
 </launch>
